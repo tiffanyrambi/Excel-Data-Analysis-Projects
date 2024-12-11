@@ -1,2 +1,4 @@
-### Project 1
-https://github.com/user-attachments/assets/ba1faa1a-4338-4c36-9828-dc53b333d28a
+### 1. Project 1 - Coffee Sales
+https://github.com/user-attachments/assets/c2de94aa-0486-42f1-a8d2-fa1f9abb17b4
+
+### 
